@@ -262,9 +262,9 @@ d = MyDialog(root)
 if not d.answered:
     raise SystemExit(0)
 
-threshMax = d.threshMax
-threshMin = d.threshMin
-binSize = d.binSize
+threshMax = int(d.threshMax)
+threshMin = int(d.threshMin)
+binSize = int(d.binSize)
 
 # Get .csv files to work with
 fileList = filedialog.askopenfilenames(parent=root, title="Select raw data files",

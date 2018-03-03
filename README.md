@@ -11,11 +11,8 @@ The program does this for you and produces a summary of the number of spikes of 
 folder.
 
 ## How to use it
-Download [spikeAnalyser_v2.zip](https://github.com/mjaquiery/spikeAnalyser/raw/master/spikeAnalyser_v2.zip) and extract 
-it to a sensible location.
-
-Run spikeAnalyser_v2.exe located in the dist folder (.../spikeAnalyser_v2/dist/spikeAnalyser_v2.exe). Follow the 
-onscreen instructions.
+Download [spikeAnalyser_v2.exe](https://github.com/mjaquiery/spikeAnalyser/raw/master/spikeAnalyser_v2.exe) and run the program. You will 
+probably have to tell your operating system that it is safe. Once the program starts, follow the onscreen instructions.
 
 ## How it works
 The program does the following for each file specified:
